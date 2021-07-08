@@ -1,4 +1,7 @@
 {
+  "homepage":"https://AlexAngel.github.io/proyecto",
+  "predeploy": "npm run build",
+  "deply": "gh-pages -d build",
   "name": "miprimeraapp",
   "version": "0.1.0",
   "private": true,
